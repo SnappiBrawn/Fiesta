@@ -14,4 +14,4 @@ Instructions to run the project on a local system
 - Configure your MySQL database on XAMPP's PHPMyAdmin. Add a database called fiesta_db, import the "fiesta_db.sql" file found in /sql.
 - Ensure your Apache and MySQL modules are working, and navigate to the URL "localhost/fiesta" on your web-browser.
 
-PS: This is literally my very first web project so go easy on me.
+
